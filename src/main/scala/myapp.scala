@@ -6,6 +6,6 @@ println("my first Scala program!")
   println("mm more code")
   println(1+2+3)
   print(1+2+4)
-  print(2)
+  print(2+34)
 
 }
